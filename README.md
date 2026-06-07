@@ -14,5 +14,5 @@ This repository showcases my ability to design datasets, analyze outputs critica
 * **Evidence-Based Judgment:** Identifying nuanced reasoning gaps devoid of bias or hedging.
 
 ## 📫 Connect with Me
-* **Email:** yuvrajsingh2602005@gmail.com
+* **Email:** yaari4784@gmail.com
 * **Location:** New Delhi, India
